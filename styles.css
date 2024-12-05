@@ -1,0 +1,32 @@
+*{
+    padding: 0;  
+    margin: 0;
+   
+   }
+   .yy{
+       width: 100%;
+       background-color:brown;
+       list-style: none;
+       display: flex;
+       justify-content: space-between;
+       
+   }
+   .xx{
+    color: black;
+    background-color: aqua;
+   }
+   .img{
+    margin-right: 40%;
+    width: 10px;
+   }
+   .aa{
+    padding: 100px;
+    margin: 60px;
+   }
+
+    background-image: url(image2.jpg);
+    background-repeat: no-repeat;
+
+   
+   
+   
